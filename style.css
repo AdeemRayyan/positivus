@@ -13,6 +13,12 @@ body {
   margin: 0px auto;
 }
 
+.nav-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .header {
   display: flex;
   align-items: center;
@@ -331,8 +337,14 @@ body {
   .text {
     display: flex;
     align-items: center;
+  
+    justify-content: space-between;
+  }
+
+  .nav-1{
     width: 100%;
     justify-content: space-between;
+    display: flex;
   }
 
   .nav-links {
