@@ -493,6 +493,12 @@
   align-items: baseline;
 }
 
+.contacts a{
+    text-decoration: none;
+    color:  rgb(207, 207, 207);
+    padding-top: 15px;
+}
+
 .right-side {
   width: 60%;
   display: flex;
